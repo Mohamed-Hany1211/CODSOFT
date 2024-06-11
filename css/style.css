@@ -50,6 +50,7 @@ a{
     font-family: var(--heading-font-family);
     font-style: var(--heading-font-style);
     font-weight: var(--heading-font-weight);
+    text-shadow: var(--shadow);
 }
 
 .goatHeading{
